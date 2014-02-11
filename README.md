@@ -5,3 +5,9 @@ UIBubbleTableView-message-insertion-animation
 
 ##Demo
 ![Demo](https://raw.github.com/kissrobber/UIBubbleTableView-message-insertion-animation/master/demo.gif "Demo")
+
+##Source files
+ *+NMA.{h,m}
+
+##License
+MIT
