@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0149AA6A-48C2-4D5B-9935-D386005477A9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UIBubbleTableViewExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B794C67D-2CFD-43DC-A82F-B5E78EA5928B</key>
+		<string>https://github.com/AlexBarinov/UIBubbleTableView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>example/UIBubbleTableViewExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B794C67D-2CFD-43DC-A82F-B5E78EA5928B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AlexBarinov/UIBubbleTableView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B794C67D-2CFD-43DC-A82F-B5E78EA5928B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B794C67D-2CFD-43DC-A82F-B5E78EA5928B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UIBubbleTableView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
